@@ -9,10 +9,10 @@ Tags: work
 Template: post
 ---
 # 시작하기 전에
-이 글은 제가 PyTorch를 공부하면서 정리를 목적으로 쓰는 것입니다. 그대로 따라하면 동
+이 글은 제가 PyTorch를 공부하면서 정리를 목적으로 쓰는 것입니다. 원본 강의는 [모두를 위한 딥러닝 시즌 2 | Deep Learning Zero To All - Season 2](https://deeplearningzerotoall.github.io/season2/)입니다.
 # Python 설치하기
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjMzOTkyOF19
+eyJoaXN0b3J5IjpbMTYzNDIyNTk5N119
 -->
