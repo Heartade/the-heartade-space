@@ -1,7 +1,7 @@
 ---
 Title: 내가 개강이라니!
 Description: 이번 학기에 해야 할 일들
-Date: Se2019 17:19
+Date: September 04, 2019 17:19
 Author: heartade
 Profile: git.hearta.de
 Img: https://cc0.photo/wp-content/uploads/2017/09/Kissing-pigeons-980x653.jpg
@@ -36,3 +36,6 @@ Template: post
 
 ## 마무리
 TMI를 읽어 주셔서 감사합니다.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUyNTk1MDYzOF19
+-->
