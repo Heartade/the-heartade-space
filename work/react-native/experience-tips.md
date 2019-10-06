@@ -26,10 +26,10 @@ Template: post
 답이 없습니다. 그냥 한 번 더 돌리세요.
 
 ### Could not invoke [NativeClass.nativeMethod]
-이 창의적인 분들이 네이티브 모듈에서 발생하는 모든 Exception을 잡아다 이런 메시지만 띄우고 끝내게 만들어 놓았습니다. IllegalArgumentException, IllegalAccessException, Invoc
+이 창의적인 분들이 네이티브 모듈에서 발생하는 IllegalArgumentException, IllegalAccessException, InvocationTargetException 등을 모조리 잡아다 이런 메시지만 띄우고 끝내게 만들어 놓았습니다. 알아서 Logcat을 뒤져서 네이티브 모듈의 오류를 찾아야 합니다.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY2NDU5NjcsLTE3MDYzMTUzMDgsLT
-E3MTk1MzI3ODVdfQ==
+eyJoaXN0b3J5IjpbMTIxODYwMTk4MSwtMTcwNjMxNTMwOCwtMT
+cxOTUzMjc4NV19
 -->
