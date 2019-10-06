@@ -25,8 +25,11 @@ Template: post
 ### run-android 시 ```Could not read path 'C:\Users\sooba\Workstation\moca-alpha\Moca\android\app\build\intermediates\transforms\mergeJniLibs\debug\0\lib\arm64-v8a'``` 오류
 답이 없습니다. 그냥 한 번 더 돌리세요.
 
+### Could not invoke [NativeClass.nativeMethod]
+이 창의적인 분들이 네이티브 모듈에서 발생하는 모든 Exception을 잡아다 이런 메시지만 띄우고 끝내게 만들어 놓았습니다. IllegalArgumentException, IllegalAccessException, Invoc
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODUyMDk1NSwtMTcwNjMxNTMwOCwtMT
-cxOTUzMjc4NV19
+eyJoaXN0b3J5IjpbLTE5MjY2NDU5NjcsLTE3MDYzMTUzMDgsLT
+E3MTk1MzI3ODVdfQ==
 -->
