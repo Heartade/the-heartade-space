@@ -28,8 +28,11 @@ Template: post
 ### Could not invoke [NativeClass.nativeMethod]
 이 창의적인 분들이 네이티브 모듈에서 발생하는 IllegalArgumentException, IllegalAccessException, InvocationTargetException 등을 모조리 잡아다 이런 메시지만 띄우고 끝내게 만들어 놓았습니다. 알아서 Logcat을 뒤져서 네이티브 모듈의 오류를 찾아야 합니다.
 
+### 빌드 시 ```Error: EPERM: operation not permitted, scandir``` 오류
+작업 공간이 VS Code에서 Workspace로 열려 있으면 발생하는 것으로 보입니다.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODYwMTk4MSwtMTcwNjMxNTMwOCwtMT
-cxOTUzMjc4NV19
+eyJoaXN0b3J5IjpbLTkyMjU4MzE4LDEyMTg2MDE5ODEsLTE3MD
+YzMTUzMDgsLTE3MTk1MzI3ODVdfQ==
 -->
