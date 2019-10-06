@@ -4,6 +4,7 @@ Description: 와아아
 Date: September 2, 2019 13:00
 Author: heartade
 Profile: git.hearta.de
+Hidden: true
 Img: https://unsplash.it/1200/628?image=1075
 Tags: work
 Template: post
@@ -17,5 +18,5 @@ Windows, Python 3.7 환경에서 시작하였습니다.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk1MTMyMTddfQ==
+eyJoaXN0b3J5IjpbODY4MzE3Njc5LC0xNDg5NTEzMjE3XX0=
 -->
