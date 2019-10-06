@@ -1,7 +1,7 @@
 ---
 Title: Nginx와 PicoCMS로 5분만에 블로그 만들기
 Description: 제가 겁나게 고생했으니 여러분은 하지 마세요
-Date: Se2019 18:40
+Date: September 02, 2019 18:40
 Author: heartade
 Profile: git.hearta.de
 Img: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
@@ -159,3 +159,6 @@ index.md와 태그 문서들의 Social 메타데이터에는 트위터, 인스�
 
 
 * 여러 번 말했지만 제가 사실 웹이 처음이라, 여러 실수가 있을 수 있습니다. "이러면 안 된다!" 싶은 부분이 있다면 제 [트위터](https://twitter.com/heartade_)로 알려 주세요!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc1NzgzNDg4N119
+-->
