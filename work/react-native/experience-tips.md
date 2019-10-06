@@ -1,7 +1,7 @@
 ---
 Title: [RN] 사소한 RN 팁들
 Description: RN이 나를 강하게 키운다
-Date: October 6, 2019 18:07
+Date: October 06, 2019 18:07
 Author: heartade
 Profile: git.hearta.de
 Img: https://unsplash.it/1200/628?image=1075
@@ -25,5 +25,5 @@ Template: post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE5NzY0NjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MTk1MzI3ODVdfQ==
 -->
