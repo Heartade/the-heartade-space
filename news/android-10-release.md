@@ -1,7 +1,7 @@
 /*
 Title: 구글 안드로이드 10, 무엇이 바뀌었나
 Author: heartade
-Date: S2019 16:11
+Date: September 04, 2019 16:11
 Template: post
 Tags: news
 Description: (내가 보려고 정리하는) 주요 기능
@@ -44,3 +44,6 @@ Img: https://cdn.pixabay.com/photo/2016/09/25/15/11/android-1693894_1280.jpg
 폴더블 스마트폰으로 인해 액티비티 크기가 변경되는 일이 전보다 훨씬 자주 일어나게 되었는데, 이로 인해 안드로이드 10부터는 resizableActivity 속성이 false로 지정된 앱은 다른 스크린으로 이동하거나 하는 경우 호환성 모드로 동작합니다. 또한 안드로이드 10에서는 minAspectRatio 속성이 새롭게 등장했는데, 이전의 maxAspectRatio 속성과 함께 앱이 지원하는 최대/최소 화면비를 지정합니다.
 ##맺으며
 안드로이드 10은 여러모로 역대 안드로이드 버전 중 가장 극적으로 바뀌는 버전 중 하나라고 할 수 있을 것 같습니다. 일단 겉보기에 확 달라졌다는 점이 크게 다가오네요. 물론 OEM들의 전통적으로 느려터진 업데이트를 감안하면, 여러분 중 대부분이 버전을 만져 볼 수 있는 건 내년이나 되어서의 이야기일 겁니다. 그 때까지 존버!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkwMDEwNzcyNV19
+-->
