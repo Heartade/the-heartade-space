@@ -16,14 +16,15 @@ Template: post
 저도 잘 몰라요
 ## 벡터, 행렬과 텐서
 ## PyTorch의 텐서 모양 Convention
-* 일반적으로 단순한 상황에서는 
-	* (배치 크기, 데이터 크기) 형태의 2D 텐서를 사용합니다.
-* 컴퓨터 비전에서는 보통 (배치 크기, 너비, 높이) 형태의 3D 텐서를 사용합니다.
-* NLP(자연어 처리)에서는 보통 (배치 크기, 길이, 데이터 크기) 형태의 3D 텐서를 사용합니다.
-## 실습
+* 일반적으로 단순한 상황에서는 `(배치 크기, 데이터 크기)` 형태의 2D 텐서를 사용합니다.
+* 컴퓨터 비전에서는 보통 `(배치 크기, 너비, 높이)` 형태의 3D 텐서를 사용합니다.
+* NLP(자연어 처리)에서는 보통 `(배치 크기, 길이, 데이터 크기)` 형태의 3D 텐서를 사용합니다.
+
+# 실습
+##
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY5MDA2NTEsLTE1OTMwMTEwNzcsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODMxMDEwMDM0LC0xNTkzMDExMDc3LDczMD
+k5ODExNl19
 -->
