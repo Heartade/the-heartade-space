@@ -22,7 +22,7 @@ Template: post
 ### Android Studio에서 Gradle Build 시 signing-config.json에서 EPERM 오류가 발생하는 경우
 그냥 오류가 발생하는 파일을 지우면 됩니다. 뭔가 문제가 안 생길 리가 없을 것 같은 해결법이지만 일단 해결된 것처럼 보이니 되었습니다.
 
-### run-android 시 ```Could not read path 'C:\Users\sooba\Workstation\moca-alpha\Moca\android\app\build\intermediates\transforms\mergeJniLibs\debug\0\lib\arm64-v8a'``` 오류
+### run-android 시 ```Could not read path '작업\경로\android\app\build\intermediates\transforms\mergeJniLibs\debug\0\lib\arm64-v8a'``` 오류
 답이 없습니다. 그냥 한 번 더 돌리세요.
 
 ### Could not invoke [NativeClass.nativeMethod]
@@ -33,6 +33,6 @@ Template: post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjU4MzE4LDEyMTg2MDE5ODEsLTE3MD
-YzMTUzMDgsLTE3MTk1MzI3ODVdfQ==
+eyJoaXN0b3J5IjpbLTE3NzIzOTM3NCwtOTIyNTgzMTgsMTIxOD
+YwMTk4MSwtMTcwNjMxNTMwOCwtMTcxOTUzMjc4NV19
 -->
