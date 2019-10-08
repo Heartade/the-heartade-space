@@ -14,9 +14,11 @@ Template: post
 Windows, Python 3.7 환경에서 시작하였습니다.
 # 설치하기
 ## numpy 설치하기
+```p
 ## PyTorch 설치하기
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MzE3Njc5LC0xNDg5NTEzMjE3XX0=
+eyJoaXN0b3J5IjpbLTE2NDU4NTM2NzksODY4MzE3Njc5LC0xND
+g5NTEzMjE3XX0=
 -->
