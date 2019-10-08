@@ -1,7 +1,7 @@
 ---
 Title: [PyTorch] 0 - 설치하기
-Description: 와아아
-Date: September 2, 2019 13:00
+Description: 이런 거 쓴다고 누가 읽으러 오나
+Date: October 08, 2019 10:58
 Author: heartade
 Profile: git.hearta.de
 Hidden: true
@@ -13,7 +13,7 @@ Template: post
 이 글은 제가 PyTorch를 공부하면서 정리를 목적으로 쓰는 것입니다. 원본 강의는 [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)입니다.
 Windows 10 AMD64, Python 3.7 환경에서 시작하였습니다.
 
-저는 PIP로 설치하느라 명령어가 꽤 복잡해졌는데, Anaconda를 사용하면 훨씬 간편해집니다. 전체 설치 과정은 [여기]([https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)에서 확인해 주세요!
+저는 PIP로 설치하느라 명령어가 꽤 복잡해졌는데, Anaconda를 사용하면 훨씬 간편해집니다. 전체 설치 과정은 [여기](https://pytorch.org/get-started/locally/)에서 확인해 주세요!
 
 # 설치하기
 ## numpy 설치하기
@@ -41,6 +41,6 @@ Torchvision은 컴퓨터 비전에 유용한 도구들을 포함하는 패키지
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU1ODc0NDYsODY4MzE3Njc5LC0xND
+eyJoaXN0b3J5IjpbLTE3NzQ2MDQxNDEsODY4MzE3Njc5LC0xND
 g5NTEzMjE3XX0=
 -->
