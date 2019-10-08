@@ -15,8 +15,11 @@ Template: post
 # 텐서가 뭐예요?
 저도 잘 몰라요
 ## 벡터, 행렬과 텐서
-
+## PyTorch의 텐서 모양 Convention
+* 일반적으로 단순한 상황에서는 (배치 크기, 데이터 크기) 형태의 2D 텐서를 사용합니다.
+* 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMwMTEwNzcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg2NjE1NzAwMywtMTU5MzAxMTA3Nyw3Mz
+A5OTgxMTZdfQ==
 -->
