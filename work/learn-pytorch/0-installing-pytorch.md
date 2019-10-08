@@ -4,7 +4,6 @@ Description: 이런 거 쓴다고 누가 읽으러 오나
 Date: October 08, 2019 10:58
 Author: heartade
 Profile: git.hearta.de
-Hidden: true
 Img: https://unsplash.it/1200/628?image=1075
 Tags: work
 Template: post
@@ -41,6 +40,6 @@ Torchvision은 컴퓨터 비전에 유용한 도구들을 포함하는 패키지
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ2MDQxNDEsODY4MzE3Njc5LC0xND
-g5NTEzMjE3XX0=
+eyJoaXN0b3J5IjpbMTk4ODE4NzEzOSw4NjgzMTc2NzksLTE0OD
+k1MTMyMTddfQ==
 -->
