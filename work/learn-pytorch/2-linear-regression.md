@@ -93,44 +93,54 @@ cost = torch.mean((hypothesis - y_train) ** 2)
 ```
 
 # Gradient Descent
+
 Gradient Descent는 loss의 Gradient를 계산하여 위에서 구한 cost를 0으로 줄이는 과정입니다. 이것의 원리에 대해서는 3강에서 더 자세히 알아보겠지만, 여기에서는 PyTorch에서 Gradient Descent를 통해 모델을 학습시켜 최적화하는 방법을 알아봅니다.
 
 ## torch.optim
 우선, PyTorch에서는 모델을 최적화하기 위한 방법('Optimizer')들을 `torch.optim` 라이브러리를 통해 제공하고 있습니다. 이 중에서 Gradient Descent는 `SGD`라는 클래스로 제공되고 있습니다.
+
 ```python
 torch.optim.SGD(params, lr=<required parameter>, momentum=0, dampening=0, weight_decay=0, nesterov=false)
 ```
 > *Prototype from [PyTorch Docs](https://pytorch.org/docs/stable/optim.html?highlight=optim#module-torch.optim)*
 
 여기에서 `params`에는 우리가 최적화할 변수의 리스트가 들어가고, `lr`에는 Learning Rate가 들어갑니다. Learning Rate는 말 그대로 '학습 속도'인데, 이것의 기술적 의미는 3강에서 자세히 설명됩니다. 우선 `lr`을 0.01로 설정해 보면 다음과 같은 코드가 됩니다.
+
 ```python
 optimizer = optim.SGD([W, b], lr = 0.01)
 ```
 
 이 클래스는 학습을 수행하기 위해 다음과 같은 메소드를 제공합니다.
+
 ```python
 zero_grad()
 ```
+
 > *Prototype from [PyTorch Docs](https://pytorch.org/docs/stable/optim.html?highlight=optim#module-torch.optim)*
 
 `zero_grad`는 `SGD`를 비롯하여 모든 Optimizer 클래스들이 상속하는 `torch.optim.Optimizer` 클래스에서 제공하는 메소드로, Optimize될 모든 텐서(즉, optimizer를 초기화할 때 `param`에 들어간 텐서들)의 그라디언트를 0으로 초기화합니다.
+
 ```python
 step(closure=None)
 ```
+
 > *Prototype from [PyTorch Docs](https://pytorch.org/docs/stable/optim.html?highlight=optim#module-torch.optim)*
 
 `step`을 실행하면 각 텐서에 저장된 loss gradient에 따라 Optimization이 실행됩니다.
 
 ## Gradient 계산하기
+
 PyTorch의 `Tensor`가 제공하는 `backward` 함수를 통해 각 텐서의 그라디언트를 계산하여 저장할 수 있습니다. `cost.backward()`를 실행하기만 하면 `W`와 `b`에 따른 `cost`의 그라디언트가 계산되어 `W`와 `b`에 대해 각각 저장되는 거죠.
 
 ## 구현
+
 위에서 설명된 내용을 종합하면, 다음의 과정을 반복함으로써 Optimization을 실행할 수 있습니다.
 * Gradient를 초기화한다.
 * Gradient를 계산한다.
 * Gradient에 따라 Gradient Descent를 실행한다.
 
 이를 코드로 구현하면 다음과 같습니다.
+
 ```python
 hypothesis = x_train * W + b
 cost = torch.mean((hypothesis - y_train) ** 2)
@@ -139,10 +149,13 @@ optimizer.zero_grad()
 cost.backward()
 optimizer.step()
 ```
+
 이 과정을 한 번 반복하는 것을 `epoch`라고 부릅니다.
 
 # 최종 코드
+
 지금까지 설명한 내용을 종합한 코드는 다음과 같습니다.
+
 ```python
 import torch
 import torch.optim as optim
@@ -165,12 +178,14 @@ for epoch in range(nb_epochs):
     cost.backward() # Calculate grad
     optimizer.step() # Optimize
 ```
+---
 ```python
 print('W   : '+str(W))
 print('b   : '+str(b))
 print('cost: '+str(cost))
 ```
 를 사용해 `nb_epoch`가 10, 100, 1000...일 때 `W`, `b`와 `cost`의 값을 출력해 보면 epoch를 많이 반복할수록 최적값에 가까워짐을 알 수 있습니다.
+
 ```python
 # nb_epoch = 10
 W   : tensor([1.1663], requires_grad=True)
@@ -190,8 +205,8 @@ b   : tensor([8.7018e-06], requires_grad=True)
 cost: tensor(1.2278e-11, grad_fn=<MeanBackward1>)
 ```
 
-
+---
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NTIzMTc5LDUwODc0NzY5XX0=
+eyJoaXN0b3J5IjpbMTU3NjE3ODgxOSw1MDg3NDc2OV19
 -->
