@@ -8,7 +8,6 @@ Img: https://unsplash.it/1200/628?image=1075
 Tags: work
 Template: post
 ---
-5-1-logistic-regression-details
 # Logistic Regression
 ## 로지스틱 회귀란?
 로지스틱 회귀는 선형 회귀와 달리 "사건이 발생할 가능성"을 예측합니다. 어떤 특별한 값이 있는 게 아니라 사건이 일어나거나 일어나지 않는 경우만 있는 것이며, 이러한 특성으로 인해 로지스틱 회귀는 보통 분류에 사용됩니다.
@@ -41,5 +40,5 @@ P-Value는 정규분포곡선에서 Z-Value보다 더 극단적인 값이 발생
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU3MzEzNF19
+eyJoaXN0b3J5IjpbLTMyMjg4OTIwN119
 -->
