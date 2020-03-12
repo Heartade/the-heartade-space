@@ -3,7 +3,6 @@ Title: Tweeminal EULA
 Description: 최종 사용자 라이선스 계약
 Date: March 10, 2020 17:39
 Author: heartade
-Hidden: true
 Profile: git.hearta.de
 Img: https://unsplash.it/1200/628?image=1075
 Template: doc
@@ -31,5 +30,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDUzNDI1Ml19
+eyJoaXN0b3J5IjpbMjA4OTEyMTA2MF19
 -->
