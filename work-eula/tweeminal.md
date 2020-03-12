@@ -6,7 +6,7 @@ Author: heartade
 Hidden: true
 Profile: git.hearta.de
 Img: https://unsplash.it/1200/628?image=1075
-Template: post
+Template: doc
 ---
 
 ### MIT License
@@ -31,5 +31,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTAwNDUwMl19
+eyJoaXN0b3J5IjpbLTQ3MDUzNDI1Ml19
 -->
