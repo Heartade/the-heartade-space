@@ -13,6 +13,3 @@ Template: post
 
 
 올 하반기 HMD 글로벌은 노키아 6.2, 7.2, 8.2와 9.1 (참 일관성 있는 네이밍이네요) 등을 출시하며 점유율 성장을 노립니다.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjgxMDkzMl19
--->

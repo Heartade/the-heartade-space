@@ -87,6 +87,3 @@ Img: https://images.unsplash.com/photo-1451187580459-43490279c0fa
 
 
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mzk1MjU4MSwtOTI5ODEyNTEwXX0=
--->

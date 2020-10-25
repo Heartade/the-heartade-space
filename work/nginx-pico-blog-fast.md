@@ -159,6 +159,3 @@ index.md와 태그 문서들의 Social 메타데이터에는 트위터, 인스�
 
 
 * 여러 번 말했지만 제가 사실 웹이 처음이라, 여러 실수가 있을 수 있습니다. "이러면 안 된다!" 싶은 부분이 있다면 제 [트위터](https://twitter.com/heartade_)로 알려 주세요!
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzgzNDg4N119
--->
