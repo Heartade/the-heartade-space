@@ -2,6 +2,7 @@
 title: ComposeCom EULA
 excerpt: 최종 사용자 라이선스 계약
 image: https://unsplash.it/1200/628?image=1075
+date: 2020-10-25
 ---
 
 ### MIT License
