@@ -1,12 +1,9 @@
 ---
-Title: \[PyTorch\] 0 - 설치하기
-Description: 이런 거 쓴다고 누가 읽으러 오나
-Date: October 08, 2019 10:58
-Author: heartade
-Profile: git.hearta.de
-Img: https://unsplash.it/1200/628?image=1075
-Tags: work
-Template: post
+title: \[PyTorch\] 0 - 설치하기
+excerpt: 이런 거 쓴다고 누가 읽으러 오나
+date: 2019-10-08
+image: https://unsplash.it/1200/628?image=1075
+tags: work
 ---
 # 시작하기 전에
 이 글은 제가 PyTorch를 공부하면서 정리를 목적으로 쓰는 것입니다. 원본 강의는 [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)입니다.

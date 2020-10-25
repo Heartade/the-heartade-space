@@ -1,11 +1,9 @@
 ---
-Title: 구글 안드로이드 10, 무엇이 바뀌었나
-Author: heartade
-Date: September 04, 2019 16:11
-Template: post
-Tags: news
-Description: (내가 보려고 정리하는) 주요 기능
-Img: https://cdn.pixabay.com/photo/2016/09/25/15/11/android-1693894_1280.jpg
+title: 구글 안드로이드 10, 무엇이 바뀌었나
+date: 2019-09-04
+tags: news
+excerpt: (내가 보려고 정리하는) 주요 기능
+image: https://cdn.pixabay.com/photo/2016/09/25/15/11/android-1693894_1280.jpg
 ---
 오늘 새벽에 안드로이드 10이 릴리즈되었습니다. 디저트 이름을 떼고 ~~macOS와 Windows와 마찬가지로~~ 10이라는 숫자만 달고 출시되었는데, 이름이 바뀐 만큼 이런저런 변경점도 많습니다. 대강 한 번 살펴보도록 하겠습니다. 작성에 [Wired](https://www.wired.com/story/android-10-best-new-features/) 기사와 [Android Developers](https://developer.android.com/about/versions/10/behavior-changes-10)를 참고하였습니다.
 ##굵직한 변경점

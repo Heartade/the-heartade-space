@@ -1,12 +1,9 @@
 ---
-Title: PicoCMS용 clean-blog 테마 포크
-Description: 바꾼 김에 깃에도 올려야지
-Date: September 3, 2019 18:29
-Author: heartade
-Profile: git.hearta.de
-Img: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
-Tags: work
-Template: post
+title: PicoCMS용 clean-blog 테마 포크
+excerpt: 바꾼 김에 깃에도 올려야지
+date: 2019-09-03
+author: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
+tags: work
 ---
 
 

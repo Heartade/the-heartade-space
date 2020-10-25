@@ -1,12 +1,9 @@
 ---
-Title: Nginx와 PicoCMS로 5분만에 블로그 만들기
-Description: 제가 겁나게 고생했으니 여러분은 하지 마세요
-Date: September 02, 2019 18:40
-Author: heartade
-Profile: git.hearta.de
-Img: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
-Tags: work
-Template: post
+title: Nginx와 PicoCMS로 5분만에 블로그 만들기
+excerpt: 제가 겁나게 고생했으니 여러분은 하지 마세요
+date: 2019-09-02
+image: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
+tags: work
 ---
 
 ##들어가며
@@ -128,8 +125,8 @@ cd /var/www/html/pico/themes && mv default default_original && git clone https:/
 문서는 [마크다운](https://en.wikipedia.org/wiki/Markdown) 형식이고, 문서 첫머리에 다음과 같은 형식으로 메타데이터를 지정해 줘야 합니다.
 ```
 ---
-Title: 포스트 제목
-Description: 설명
+title: 포스트 제목
+excerpt: 설명
 Date: DD-MM-YYYY HH:MM 형식 날짜
 Author: 작가명
 Profile: 작가 프로필 링크
@@ -141,9 +138,9 @@ Template: post
 마지막으로, 태그를 추가할 때는 다음과 같은 형식으로 content 폴더에 태그 문서를 만들어 주세요. 태그 문서 이름은 `태그이름.md` 형식입니다.
 ```
 ---
-Title: 태그 제목 (태그 이름과 같을 필요는 없습니다)
+title: 태그 제목 (태그 이름과 같을 필요는 없습니다)
 Tagline: 태그 부제목
-Description: 태그 설명
+excerpt: 태그 설명
 Filter: 태그 이름
 Tags: tag
 Social:

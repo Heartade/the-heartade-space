@@ -1,11 +1,9 @@
 ---
-Title: 1년 반 된 노트북이 틈만 나면 꺼지는 이야기
-Description: 한성노트북, 좋았던 점과 아쉬운 점들
-Author: heartade
-Date: September 23, 2019 13:33
-Tags: diary
-Template: post
-Img: https://imgur.com/Dr8VPd3.png
+title: 1년 반 된 노트북이 틈만 나면 꺼지는 이야기
+excerpt: 한성노트북, 좋았던 점과 아쉬운 점들
+date: 2019-09-23
+tags: diary
+image: https://imgur.com/Dr8VPd3.png
 ---
 
 성능은 굉장히 만족스러웠습니다. 제가 작년 초에 구입한 한성 BossMonster XH57-Ti7100 모델 이야기입니다. GTX 1050Ti가 들어간 덕분에 고사양 게임부터 그래픽 툴까지 무리 없이 구동할 수 있었습니다.

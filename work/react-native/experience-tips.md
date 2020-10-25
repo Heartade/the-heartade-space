@@ -1,12 +1,9 @@
 ---
-Title: /[RN/] 사소한 RN 팁들
-Description: RN이 나를 강하게 키운다
-Date: October 06, 2019 18:07
-Author: heartade
-Profile: git.hearta.de
-Img: https://unsplash.it/1200/628?image=1075
-Tags: work
-Template: post
+title: /[RN/] 사소한 RN 팁들
+excerpt: RN이 나를 강하게 키운다
+date: 2019-10-06
+image: https://unsplash.it/1200/628?image=1075
+tags: work
 
 ---
 # 이 포스트에 대하여

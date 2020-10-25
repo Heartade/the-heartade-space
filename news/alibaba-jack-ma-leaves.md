@@ -1,11 +1,9 @@
 ---
-Title: 마윈 알리바바 회장 퇴사
-Author: heartade
-Date: September 11, 2019 12:45
-Template: post
-Tags: news
-Description: 앞으로 자선 사업에 힘쓸 예정이라는 소식
-Img: https://live.staticflickr.com/1562/25718827003_b8dfdc8fac.jpg
+title: 마윈 알리바바 회장 퇴사
+date: 2019-09-11
+tags: news
+excerpt: 앞으로 자선 사업에 힘쓸 예정이라는 소식
+image: https://live.staticflickr.com/1562/25718827003_b8dfdc8fac.jpg
 
 ---
 알리바바의 마윈 회장이 화요일(10일) 퇴사를 발표했습니다. 가발과 기타, 가죽 코트 등 [락스타 분장](https://www.reuters.com/article/us-alibaba-jackma/alibaba-set-for-big-challenge-as-flamboyant-chairman-ma-departs-idUSKCN1VU0VY)을 하고 나왔는데, 새로운 도전에 대한 의지를 나타낸 모양입니다.

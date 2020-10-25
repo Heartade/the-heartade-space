@@ -1,11 +1,9 @@
 ---
-Title: 타블렛 갖고 싶다
-Author: heartade
-Date: September 3, 2019 17:18
-Template: post
-Tags: desire
-Description: 개강하니까 별 게 다 갖고 싶다는 이야기
-Img: https://cc0.photo/wp-content/uploads/2015/11/Code-editor-on-MacBook-Air-980x651.jpg
+title: 타블렛 갖고 싶다
+date: 2019-09-03
+tags: desire
+excerpt: 개강하니까 별 게 다 갖고 싶다는 이야기
+image: https://cc0.photo/wp-content/uploads/2015/11/Code-editor-on-MacBook-Air-980x651.jpg
 ---
 
 지난 학기까지 레노버 Miix 320 모델을 타블렛으로 쓰고 있었는데, 방학 중에 자다가 밟았는지 액정이 깨져 버리고 말았습니다. 서비스 센터를 갔더니 수리비가 새 제품을 사는 가격과 거의 차이가 나지 않길래 눈물을 흘리고 있던 중 개강을 했는데, 이번 학기에는 필기를 해야 하는 수업이 좀 많은 모양이더라고요. 종이로 필기를 해도 원노트에 스캔해서 올리면 되긴 하지만 지난 학기까지 Miix 320의 액티브 펜으로 필기를 했던 걸 생각하면 눈물이 나는 상황이 아닐 수 없습니다.

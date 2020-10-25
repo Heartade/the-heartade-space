@@ -1,10 +1,7 @@
 ---
-Title: ComposeCom EULA
-Description: 최종 사용자 라이선스 계약
-Author: heartade
-Profile: git.hearta.de
-Img: https://unsplash.it/1200/628?image=1075
-Template: doc
+title: ComposeCom EULA
+excerpt: 최종 사용자 라이선스 계약
+image: https://unsplash.it/1200/628?image=1075
 ---
 
 ### MIT License

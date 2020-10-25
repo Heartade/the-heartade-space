@@ -1,13 +1,9 @@
 ---
-Title: ComposeCom
-Description: 터미널에서 트윗 작성하기
-Date: March 10, 2020 17:33
-Author: heartade
-Hidden: false
-Profile: git.hearta.de
-Img: https://unsplash.it/1200/628?image=1075
-Tags: work
-Template: post
+title: ComposeCom
+excerpt: 터미널에서 트윗 작성하기
+date: 2020-03-10
+image: https://unsplash.it/1200/628?image=1075
+tags: work
 ---
 # 소개
 

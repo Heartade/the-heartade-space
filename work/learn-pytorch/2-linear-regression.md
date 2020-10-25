@@ -1,12 +1,9 @@
 ---
-Title: \[PyTorch\] 2 - 선형회귀
-Description: 이런 거 쓴다고 누가 읽으러 오나
-Date: November 07, 2019 18:02
-Author: heartade
-Profile: git.hearta.de
-Img: https://unsplash.it/1200/628?image=1075
-Tags: work
-Template: post
+title: \[PyTorch\] 2 - 선형회귀
+excerpt: 이런 거 쓴다고 누가 읽으러 오나
+date: 2019-11-07
+image: https://unsplash.it/1200/628?image=1075
+tags: work
 ---
 
 # 들어가며

@@ -1,12 +1,9 @@
 ---
-Title: \[PyTorch\] 5.1 - 로지스틱 회귀의 이론적 배경
-Description: 솔직히 저도 아직 이해 못 했어요
-Date: November 14, 2019 19:57
-Author: heartade
-Profile: git.hearta.de
-Img: https://unsplash.it/1200/628?image=1075
-Tags: work
-Template: post
+title: \[PyTorch\] 5.1 - 로지스틱 회귀의 이론적 배경
+excerpt: 솔직히 저도 아직 이해 못 했어요
+date: 2019-11-14
+image: https://unsplash.it/1200/628?image=1075
+tags: work
 ---
 # Logistic Regression
 ## 로지스틱 회귀란?
