@@ -1,7 +1,7 @@
 ---
 title: 앞으로는 꼭 문서화를 제대로 하겠습니다
 date: 2019-09-23
-tags: work
+tags: ["work"]
 excerpt: 앞으로는 꼭 문서화를 제대로 하겠습니다
 image: http://img.youtube.com/vi/TpPwI_Lo0YY/0.jpg
 ---

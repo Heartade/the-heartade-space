@@ -2,7 +2,7 @@
 title: Swich SWB-M100 개봉기
 excerpt: 일렉트로마트에서 지른 19900원짜리 블루투스 무선 이어폰
 date: 2019-09-23
-tags: desire
+tags: ["desire"]
 image: https://i.imgur.com/4v07DUU.png
 
 

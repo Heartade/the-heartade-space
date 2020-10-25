@@ -1,7 +1,7 @@
 title: 숨을 들이쉬며
 Author: heartade
 Date: February 04, 2020 23:20
-Tags: diary
+Tags: ["diary"]
 Hidden: true
 excerpt: 즉흥적인 단편
 Img: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg

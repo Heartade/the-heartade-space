@@ -3,7 +3,7 @@ title: PicoCMS용 clean-blog 테마 포크
 excerpt: 바꾼 김에 깃에도 올려야지
 date: 2019-09-03
 author: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
-tags: work
+tags: ["work"]
 ---
 
 

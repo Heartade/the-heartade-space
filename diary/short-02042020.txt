@@ -3,7 +3,7 @@ title: 숨을 들이쉬며
 Author: heartade
 Date: February 04, 2020 23:20
 Template: post
-Tags: diary
+Tags: ["diary"]
 excerpt: 즉흥적인 단편
 Img: https://images.unsplash.com/photo-1451187580459-43490279c0fa
 ---

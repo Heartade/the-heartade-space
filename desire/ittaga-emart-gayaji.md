@@ -1,7 +1,7 @@
 ---
 title: 이따가 이마트 가야지
 date: 2019-09-04
-tags: desire
+tags: ["desire"]
 excerpt: 제곧내
 image: http://img.youtube.com/vi/TpPwI_Lo0YY/0.jpg
 ---

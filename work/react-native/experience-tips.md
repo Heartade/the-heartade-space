@@ -3,7 +3,7 @@ title: /[RN/] 사소한 RN 팁들
 excerpt: RN이 나를 강하게 키운다
 date: 2019-10-06
 image: https://unsplash.it/1200/628?image=1075
-tags: work
+tags: ["work"]
 
 ---
 # 이 포스트에 대하여

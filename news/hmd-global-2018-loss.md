@@ -3,7 +3,7 @@ title: 노키아 제조사 HMD 글로벌, 2018년 연간 실적 발표
 excerpt: 2018년 한 해 매출 2조 4천만 유로 / 적자 1억 8900만 유로 기록
 
 date: 2019-09-03
-tags: news
+tags: ["news"]
 ---
 [출처 NokiaPowerUser](https://nokiapoweruser.com/hmd-had-nokia-phones-sales-of-eur-2-4-billion-and-a-loss-of-eur-189-million-in-2019/ )
 노키아 휴대폰의 제조사 HMD 글로벌의 CEO 유호 사르비카스는 2018년 한 해 동안 HMD가 2조 4천만 유로의 매출, 1억 8900만 유로의 적자를 기록했다고 발표했습니다.

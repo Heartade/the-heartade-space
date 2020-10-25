@@ -1,7 +1,7 @@
 ---
 title: 마윈 알리바바 회장 퇴사
 date: 2019-09-11
-tags: news
+tags: ["news"]
 excerpt: 앞으로 자선 사업에 힘쓸 예정이라는 소식
 image: https://live.staticflickr.com/1562/25718827003_b8dfdc8fac.jpg
 
