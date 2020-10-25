@@ -1,5 +1,5 @@
 ---
-Title: PyTorch: 1.1 - 텐서 조작하기
+Title: \[PyTorch\] 1.1 - 텐서 조작하기
 Description: 이런 거 쓴다고 누가 읽으러 오나
 Date: October 08, 2019 10:58
 Author: heartade
@@ -24,7 +24,3 @@ Template: post
 ##
 
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMDEwMDM0LC0xNTkzMDExMDc3LDczMD
-k5ODExNl19
--->

@@ -1,5 +1,5 @@
 ---
-Title: PyTorch: 2 - 선형회귀
+Title: \[PyTorch\] 2 - 선형회귀
 Description: 이런 거 쓴다고 누가 읽으러 오나
 Date: November 07, 2019 18:02
 Author: heartade
@@ -11,7 +11,7 @@ Template: post
 
 # 들어가며
 
-<모두를 위한 딥러닝 강의> 2강에서는 Linear Regression을 활용한 학습을 연습해 봅니다. 본 포스트는 제가 학습한 내용을 복기해 두기 위한 것이며, 원본 강의와 슬라이드는 아래에서 보실 수 있습니다.
+/<모두를 위한 딥러닝 강의/> 2강에서는 Linear Regression을 활용한 학습을 연습해 봅니다. 본 포스트는 제가 학습한 내용을 복기해 두기 위한 것이며, 원본 강의와 슬라이드는 아래에서 보실 수 있습니다.
 
 [유튜브 강의](https://youtu.be/kyjBMuNM1DI)
 [슬라이드](https://drive.google.com/file/d/1zKsvxMZAsZDsPWO5vokxlA5wGZBdbB8S/view?usp=sharing)
@@ -207,6 +207,3 @@ cost: tensor(1.2278e-11, grad_fn=<MeanBackward1>)
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjE3ODgxOSw1MDg3NDc2OV19
--->

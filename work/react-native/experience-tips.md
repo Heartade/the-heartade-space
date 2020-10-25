@@ -1,5 +1,5 @@
 ---
-Title: RN: 사소한 RN 팁들
+Title: /[RN/] 사소한 RN 팁들
 Description: RN이 나를 강하게 키운다
 Date: October 06, 2019 18:07
 Author: heartade
@@ -32,7 +32,3 @@ Template: post
 작업 공간이 VS Code에서 Workspace로 열려 있으면 발생하는 것으로 보입니다.
 
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIzOTM3NCwtOTIyNTgzMTgsMTIxOD
-YwMTk4MSwtMTcwNjMxNTMwOCwtMTcxOTUzMjc4NV19
--->

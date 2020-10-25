@@ -1,5 +1,5 @@
 ---
-Title: PyTorch: 0 - 설치하기
+Title: \[PyTorch\] 0 - 설치하기
 Description: 이런 거 쓴다고 누가 읽으러 오나
 Date: October 08, 2019 10:58
 Author: heartade
@@ -39,7 +39,3 @@ Torchvision은 컴퓨터 비전에 유용한 도구들을 포함하는 패키지
 ```pip3 install torchvision```
 
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNTM2OTI3LDE5ODgxODcxMzksODY4Mz
-E3Njc5LC0xNDg5NTEzMjE3XX0=
--->

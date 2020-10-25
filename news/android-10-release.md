@@ -1,4 +1,4 @@
-/*
+---
 Title: 구글 안드로이드 10, 무엇이 바뀌었나
 Author: heartade
 Date: September 04, 2019 16:11
@@ -6,7 +6,7 @@ Template: post
 Tags: news
 Description: (내가 보려고 정리하는) 주요 기능
 Img: https://cdn.pixabay.com/photo/2016/09/25/15/11/android-1693894_1280.jpg
-*/
+---
 오늘 새벽에 안드로이드 10이 릴리즈되었습니다. 디저트 이름을 떼고 ~~macOS와 Windows와 마찬가지로~~ 10이라는 숫자만 달고 출시되었는데, 이름이 바뀐 만큼 이런저런 변경점도 많습니다. 대강 한 번 살펴보도록 하겠습니다. 작성에 [Wired](https://www.wired.com/story/android-10-best-new-features/) 기사와 [Android Developers](https://developer.android.com/about/versions/10/behavior-changes-10)를 참고하였습니다.
 ##굵직한 변경점
 ###어두운 모드
@@ -32,8 +32,7 @@ Img: https://cdn.pixabay.com/photo/2016/09/25/15/11/android-1693894_1280.jpg
 이제 전체 화면 알림을 띄우는 앱은 Manifest에서 USE_FULL_SCREEN_INTENT 권한을 설정해 줘야 합니다. 이 권한이 없을 경우 전체 화면 알림 요청은 무시되고 로그에 메시지가 출력됩니다 (학교 앱이 언제쯤 대응할지 궁금해지네요). 다만, 이 권한은 자동 승인되며 유저의 별도 승인이 필요하지는 않습니다.
 ###멀티 윈도우 사용 시 onPause(), onResume() 동작 변경
 <a href="http://www.youtube.com/watch?v=4dIULf4ma_I">
-
-<img src="http://img.youtube.com/vi/4dIULf4ma_I/0.jpg" alt="App Continuity" width="100%"/>
+    <img src="http://img.youtube.com/vi/4dIULf4ma_I/0.jpg" alt="App Continuity" width="100%"/>
 </a>
 
 *클릭하면 유튜브로 갑니다*

@@ -1,5 +1,5 @@
 ---
-Title: PyTorch: 5.1 - 로지스틱 회귀의 이론적 배경
+Title: \[PyTorch\] 5.1 - 로지스틱 회귀의 이론적 배경
 Description: 솔직히 저도 아직 이해 못 했어요
 Date: November 14, 2019 19:57
 Author: heartade
@@ -39,6 +39,3 @@ P-Value는 정규분포곡선에서 Z-Value보다 더 극단적인 값이 발생
 
 
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjg4OTIwN119
--->
