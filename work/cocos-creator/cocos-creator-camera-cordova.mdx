@@ -1,0 +1,20 @@
+---
+title: Cocos Creator | 안드로이드 카메라 앱 구현하기 - 서론
+excerpt: 이걸 이제껏 아무도 안 했다니
+date: 2020-10-25
+image: https://unsplash.it/1200/628?image=1075
+tags: ["blog", "work", "cocos-creator"]
+---
+
+# 시작하며
+Cocos Creator로 카메라 앱을 만들어야 하는 이유가 있었을까요? 저는 잘 모르겠습니다. 하지만 어쨌든 어쩌다 보니 만들 일이 생겼고, 이내 놀랍게도 이 문제가 *Non-Googlable Problem*, 즉 구글로 답을 찾을 수 없는 문제라는 사실을 깨달았습니다 (물론 결과적으로는 구글을 잔뜩 썼지만요). 앞으로 네 개의 글에 나누어,
+
+* Cocos Creator 앱에 `device.getUserMedia`로 웹캠 표시하기
+* Cocos Creator 앱에서 웹캠 캡쳐하기
+* Cocos Creator 웹앱을 Cordova로 패키징하기
+* Cordova 앱에서 안드로이드 `MediaStore` 사용하기
+
+를 다룰 예정입니다.
+
+# 잠깐, Cordova라고요?
+Cocos Creator는 크로스플랫폼 엔진인데, 왜 굳이 Cordova를 쓰는 걸까요? 저도 그러고 싶지 않았는데, Cocos Creator에서는 기본적으로 카메라를 지원하지 않고, `device.getUserMedia` API에 접근해서 카메라를 쓰려면 달리 도리가 없더라고요. 물론 좀 더 생각해 보면 Cocos Creator에서 안드로이드 PreviewView를 표시하는 방법을 직접 구현할 수도 있었겠지만, 저는 Android의 기묘한 카메라 API에 학을 뗀 지 오래라 굳이 그 수고를 다시 하고 싶지는 않았습니다.

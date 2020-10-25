@@ -3,7 +3,7 @@ title: Nginx와 PicoCMS로 5분만에 블로그 만들기
 excerpt: 제가 겁나게 고생했으니 여러분은 하지 마세요
 date: 2019-09-02
 image: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
-tags: ["work"]
+tags: ["blog", "work"]
 ---
 
 ##들어가며

@@ -1,7 +1,7 @@
 ---
 title: 구글 안드로이드 10, 무엇이 바뀌었나
 date: 2019-09-04
-tags: ["news"]
+tags: ["blog", "news"]
 excerpt: (내가 보려고 정리하는) 주요 기능
 image: https://cdn.pixabay.com/photo/2016/09/25/15/11/android-1693894_1280.jpg
 ---

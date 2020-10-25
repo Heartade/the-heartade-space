@@ -1,9 +1,9 @@
 ---
-title: \[PyTorch\] 5.1 - 로지스틱 회귀의 이론적 배경
+title: PyTorch | 5.1 - 로지스틱 회귀의 이론적 배경
 excerpt: 솔직히 저도 아직 이해 못 했어요
 date: 2019-11-14
 image: https://unsplash.it/1200/628?image=1075
-tags: ["work"]
+tags: ["blog", "work"]
 ---
 # Logistic Regression
 ## 로지스틱 회귀란?

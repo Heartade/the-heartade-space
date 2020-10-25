@@ -3,7 +3,7 @@ title: ComposeCom
 excerpt: 터미널에서 트윗 작성하기
 date: 2020-03-10
 image: https://unsplash.it/1200/628?image=1075
-tags: ["work"]
+tags: ["blog", "work"]
 ---
 # 소개
 

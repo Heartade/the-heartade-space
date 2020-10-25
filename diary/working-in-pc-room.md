@@ -1,7 +1,7 @@
 ---
 title: PC방에서 일하기, 여러분도 도전해 보세요
 date: 2019-09-10
-tags: ["diary"]
+tags: ["blog", "diary"]
 excerpt: 사실 그냥 일하기 싫어서 쓴 글
 image: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
 ---

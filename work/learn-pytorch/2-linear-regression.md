@@ -1,9 +1,9 @@
 ---
-title: \[PyTorch\] 2 - 선형회귀
+title: PyTorch | 2 - 선형회귀
 excerpt: 이런 거 쓴다고 누가 읽으러 오나
 date: 2019-11-07
 image: https://unsplash.it/1200/628?image=1075
-tags: ["work"]
+tags: ["blog", "work"]
 ---
 
 # 들어가며

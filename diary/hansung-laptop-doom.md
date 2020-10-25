@@ -2,7 +2,7 @@
 title: 1년 반 된 노트북이 틈만 나면 꺼지는 이야기
 excerpt: 한성노트북, 좋았던 점과 아쉬운 점들
 date: 2019-09-23
-tags: ["diary"]
+tags: ["blog", "diary"]
 image: https://imgur.com/Dr8VPd3.png
 ---
 

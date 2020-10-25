@@ -1,7 +1,7 @@
 ---
 title: 중간고사 망했다
 date: 2019-10-28
-tags: ["diary"]
+tags: ["blog", "diary"]
 excerpt: 공부라도 제대로 했어야 하는데
 image: http://img.youtube.com/vi/TpPwI_Lo0YY/0.jpg
 ---

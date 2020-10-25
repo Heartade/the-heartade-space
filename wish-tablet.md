@@ -1,7 +1,7 @@
 ---
 title: 타블렛 갖고 싶다
 date: 2019-09-03
-tags: ["desire"]
+tags: ["blog", "desire"]
 excerpt: 개강하니까 별 게 다 갖고 싶다는 이야기
 image: https://cc0.photo/wp-content/uploads/2015/11/Code-editor-on-MacBook-Air-980x651.jpg
 ---
