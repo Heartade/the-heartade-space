@@ -1,10 +1,10 @@
----
+<!-- ---
 title: PicoCMS용 clean-blog 테마 포크
 excerpt: 바꾼 김에 깃에도 올려야지
 date: 2019-09-03
 author: https://www.elektrollart.de/wp-content/uploads/20161227_0013.jpg
 tags: ["blog", "work"]
----
+--- -->
 
 
 * 수정 09-04-2019: 이것저것 추가 사항이 많아지면서 포크된 버전의 테마를 아예 다른 이름으로 바꾸었습니다. 이제 이 테마의 이름은 *Purity*입니다.
