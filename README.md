@@ -18,18 +18,20 @@
 정해진 스택은 없지만 그냥 시키는 일을 합니다!
 
 - React(TypeScript)를 사용하여 PWA를 만듭니다.
-    - 요즘은 회사에서 SSR을 하라길래 NextJS도 씁니다 (원래는 우리 서버보다 사용자들 스마트폰 사양이 더 좋아서 굳이 안 썼어요)
-    - 원래는 emotion/styled랑 ariakit 위주로 썼는데 회사에서 Tailwind CSS랑 DaisyUI를 쓰라길래 쓰고 있습니다.
-    - Data Visualization 같은 건 좀 했는데 [이지통계-M (ebsmath.co.kr)](https://ebsmath.co.kr/innovativelrms/web_lrms/content/resource/easyTong2/index.html)
+  - 요즘은 회사에서 SSR을 하라길래 NextJS도 씁니다 (원래는 우리 서버보다 사용자들 스마트폰 사양이 더 좋아서 굳이 안 썼어요)
+  - 원래는 emotion/styled랑 ariakit 위주로 썼는데 회사에서 Tailwind CSS랑 DaisyUI를 쓰라길래 쓰고 있습니다.
+
+- Data Visualization 같은 것도 좀 했는데... [이지통계-M (ebsmath.co.kr)](https://ebsmath.co.kr/innovativelrms/web_lrms/content/resource/easyTong2/index.html)
+
 - Cocos Creator(TypeScript)를 사용하여 웹 브라우저에서 구동되는 앱이나 게임을 만듭니다.
-    - [2020정부혁신박람회 (innoexpo.kr)](https://2020.innoexpo.kr/) 혼돈
+  - [2020정부혁신박람회 (innoexpo.kr)](https://2020.innoexpo.kr/)
 - Unity3D(C#)를 사용하여 모바일 앱이나 게임을 만듭니다.
-    - [아이캔두 누리키즈｜공부습관을 만드는 내 아이 맞춤 Ai 학습 (kyowonedu.com)](https://www.kyowonedu.com/KEP/aicandonuri22.jsp) 고통
+  - [아이캔두 누리키즈｜공부습관을 만드는 내 아이 맞춤 Ai 학습 (kyowonedu.com)](https://www.kyowonedu.com/KEP/aicandonuri22.jsp)
 
 ## 해본 적 있는 일 (사이드 프로젝트 정도로!!)
 
 - Java로 Spring 서버 건드리기
-    - Spring에서 POST 리퀘스트 페이로드로 들어온 이미지 데이터를 OpenCV로 처리하기
+  - Spring에서 POST 리퀘스트 페이로드로 들어온 이미지 데이터를 OpenCV로 처리하기
 - 웹앱을 Cordova로 패키징하기
 - Java로 Cordova용 Android 네이티브 코드 플러그인 작성하기
 - Kotlin으로 Android 앱 작성하기
@@ -62,14 +64,14 @@ let b = 36;
 console.log(`${a}${getLinkingParticle(getKoreanHanjaNumeral(a))} ${b}`); // '24와 36'
 ```
 
-### **2020 정부혁신박람회** (⤴️[전자신문](https://m.etnews.com/20201215000122), [⤴️링크](https://2020.innoexpo.kr))
+### 2020 정부혁신박람회 (⤴️[전자신문](https://m.etnews.com/20201215000122), [⤴️링크](https://2020.innoexpo.kr))
 
 비대면 인터랙티브 박람회 공간
 
-### **EBSMATH 이지통계** (링크 준비중)
+### EBSMATH 이지통계 (링크 준비중)
 
-학습용 통계 계산 및 데이터 시각화 어플리케이션 
+학습용 통계 계산 및 데이터 시각화 어플리케이션
 
-### **EBSMATH 중등 수학 인터랙티브 《별들에게 물어봐》 ([⤴️EBSMATH](https://www.ebsmath.co.kr/resource/rscView?cate=10095&cate2=10107&cate3=10133&rscTpDscd=RTP01&grdCd=MGRD02&sno=29728&type=S&historyYn=study))**
+### EBSMATH 중등 수학 인터랙티브 《별들에게 물어봐》 ([⤴️EBSMATH](https://www.ebsmath.co.kr/resource/rscView?cate=10095&cate2=10107&cate3=10133&rscTpDscd=RTP01&grdCd=MGRD02&sno=29728&type=S&historyYn=study))
 
 중고등학생을 위한 지수법칙 학습 게임
