@@ -1,3 +1,7 @@
+<blockquote id="_docsify_share_text">
+  글쇠를 두드리다가, 파란 막대를 바라보다가, 빨간 글씨를 읽는 일을 합니다.
+</blockquote>
+
 # About
 
 > 글쇠를 두드리다가, 파란 막대를 바라보다가, 빨간 글씨를 읽는 일을 합니다.
@@ -18,6 +22,7 @@
 정해진 스택은 없지만 그냥 시키는 일을 합니다!
 
 - React(TypeScript)를 사용하여 PWA를 만듭니다.
+
   - 요즘은 회사에서 SSR을 하라길래 NextJS도 씁니다 (원래는 우리 서버보다 사용자들 스마트폰 사양이 더 좋아서 굳이 안 썼어요)
   - 원래는 emotion/styled랑 ariakit 위주로 썼는데 회사에서 Tailwind CSS랑 DaisyUI를 쓰라길래 쓰고 있습니다.
 
