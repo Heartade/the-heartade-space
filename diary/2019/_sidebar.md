@@ -1,4 +1,6 @@
-* [About](/ "About")
-* [Making it Work](/work/ "Making it Work")
-* [Diary](/diary/ "Diary")
-  * **현재 포스트**
+- [About](/)
+- [Making it Work](/work/)
+- [Diary](/diary/)
+  - [2022](/diary/2022/)
+  - [2019](/diary/2019/)
+    - **현재 위치**
